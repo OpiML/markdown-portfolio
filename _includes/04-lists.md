@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Here's the list of my favourite things:
+- tuling
+- playing Genshin
+- dyskuting
+- working with Mahrcin 
+- imprezing i melining
