@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+_Below is my_ **skills** _list_
+
+## Sharking programming
+- small fish
+- medium fish
+- large fish
+
+## Collabioration
+- Lodolandia
+- internet
+- online games
